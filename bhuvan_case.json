@@ -1,0 +1,190 @@
+{
+  "title": "A Scandal in the Codebase",
+  "original_reference": "A Scandal in Bohemia",
+  "characters": [
+    {
+      "original_name": "Sherlock Holmes",
+      "new_name": "Surya",
+      "role": "protagonist",
+      "profession_original": "Consulting Detective",
+      "profession_cyberpunk": "Data Systems Consultant",
+      "core_traits": ["obsessively observant", "intellectually arrogant", "addicted to puzzles"],
+      "motivation": "Solve the unsolvable data anomaly, prove analytical superiority",
+      "arc": "Meets his intellectual match, learns humility",
+      "cyberpunk_details": {
+        "neural_implants": "Pattern recognition co-processor",
+        "base_location": "Abandoned server farm, Sector 7",
+        "signature_tool": "Custom AR overlay for data visualization",
+        "quirk": "Doesn't use standard interfaces, prefers raw data streams"
+      }
+    },
+    {
+      "original_name": "Dr. John Watson",
+      "new_name": "Gopi",
+      "role": "narrator",
+      "profession_original": "Army Doctor",
+      "profession_cyberpunk": "Former systems engineer, now chronicler",
+      "core_traits": ["loyal", "grounded", "narratively reliable"],
+      "motivation": "Document Surya's genius, maintain friendship, provide human perspective",
+      "arc": "Serves as bridge between genius and humanity",
+      "cyberpunk_details": {
+        "relationship_to_surya": "Former colleague, now partner",
+        "narrative_style": "Technical but accessible, explains the human side",
+        "implant": "Standard neural link for documentation"
+      }
+    },
+    {
+      "original_name": "Irene Adler",
+      "new_name": "Venkat",
+      "role": "foil/antagonist",
+      "profession_original": "Opera Singer / Adventuress",
+      "profession_cyberpunk": "Security Researcher / White-hat turned gray",
+      "core_traits": ["intellectually brilliant", "morally ambiguous", "always three moves ahead"],
+      "motivation": "Protect self from corporate retaliation, outsmart the system",
+      "arc": "Proves technical expertise equals Surya's, escapes on own terms",
+      "cyberpunk_details": {
+        "skills": "Social engineering, system penetration, identity management",
+        "signature": "Leaves no digital trace, impossible to track",
+        "relationship": "Has compromising data on Bhuvan"
+      }
+    },
+    {
+      "original_name": "King of Bohemia",
+      "new_name": "Bhuvan",
+      "role": "client",
+      "profession_original": "King",
+      "profession_cyberpunk": "Senior Employee, NexusCorp Project Lead",
+      "core_traits": ["desperate", "proud", "panicked"],
+      "motivation": "Protect career and upcoming promotion",
+      "arc": "Learns he can't control everything with authority",
+      "cyberpunk_details": {
+        "situation": "Has sensitive neural memory recording with Venkat",
+        "stakes": "Upcoming promotion to Director, can't afford scandal",
+        "company": "NexusCorp - one of the big five megacorporations",
+        "authority_level": "High, but not executive - can be fired"
+      }
+    },
+    {
+      "original_name": "Inspector Lestrade",
+      "new_name": "Mahesh",
+      "role": "authority",
+      "profession_original": "Scotland Yard Detective",
+      "profession_cyberpunk": "Corporate Security AI Supervisor",
+      "core_traits": ["by-the-book", "competent within limits", "frustrated by genius"],
+      "motivation": "Maintain corporate order, follow protocols",
+      "arc": "Reluctantly acknowledges Surya's unconventional methods",
+      "cyberpunk_details": {
+        "approach": "Relies on standard surveillance and security protocols",
+        "limitation": "Can't think outside algorithmic parameters",
+        "frustration": "Surya bypasses all standard channels"
+      }
+    }
+  ],
+  "plot_beats": [
+    {
+      "sequence": 1,
+      "title": "The Desperate Employee",
+      "original_event": "King of Bohemia visits Sherlock with impossible problem",
+      "cyberpunk_event": "Bhuvan arrives at Surya's server farm via encrypted holo-call, desperate",
+      "emotional_tone": "urgent, mysterious, desperate",
+      "stakes": "Bhuvan's career and promotion",
+      "key_elements": ["Client with impossible problem", "Compromising evidence exists", "Time pressure"],
+      "setting_details": {
+        "location": "Surya's server farm, Sector 7",
+        "atmosphere": "Neon-lit, humming servers, raw data streams",
+        "bhuvan_disguise": "Using encrypted connection, voice modulated"
+      }
+    },
+    {
+      "sequence": 2,
+      "title": "Digital Investigation",
+      "original_event": "Holmes investigates Irene's residence",
+      "cyberpunk_event": "Surya infiltrates Venkat's digital footprint across networks",
+      "emotional_tone": "curious, analytical, methodical",
+      "stakes": "Finding the location of the neural memory file",
+      "key_elements": ["Digital surveillance", "Pattern analysis", "False trails"],
+      "setting_details": {
+        "method": "Tracing data packets, analyzing access logs",
+        "breakthrough": "Discovers Venkat's secondary identity layer",
+        "surprise": "Venkat has been watching Surya too"
+      }
+    },
+    {
+      "sequence": 3,
+      "title": "The Deception",
+      "original_event": "Holmes disguises himself and tricks Irene",
+      "cyberpunk_event": "Surya creates fake security breach to flush Venkat out",
+      "emotional_tone": "tense, clever, game of wits",
+      "stakes": "Location of the neural memory file",
+      "key_elements": ["Digital disguise", "False crisis", "Social engineering"],
+      "setting_details": {
+        "disguise": "Spoofs corporate security AI identity",
+        "trap": "Triggers fake data breach alert",
+        "plan": "Venkat will move the file to secure location - Surya intercepts"
+      }
+    },
+    {
+      "sequence": 4,
+      "title": "Outsmarted",
+      "original_event": "Irene outsmarts Holmes, escapes with photo",
+      "cyberpunk_event": "Venkat anticipates the trap, moves file to unreachable quantum-encrypted storage",
+      "emotional_tone": "surprise, admiration, defeat",
+      "stakes": "Surya's ego, Bhuvan's future",
+      "key_elements": ["The tables turn", "Venkat was ahead all along", "Surya outplayed"],
+      "setting_details": {
+        "revelation": "Venkat saw through the spoof instantly",
+        "message": "Leaves encrypted note: 'You disappoint me, Consultant'",
+        "escape": "Goes completely dark, impossible to trace"
+      }
+    },
+    {
+      "sequence": 5,
+      "title": "Respect",
+      "original_event": "Holmes keeps Irene's photo as trophy of respect",
+      "cyberpunk_event": "Surya keeps Venkat's note as screensaver - only case he couldn't solve",
+      "emotional_tone": "bittersweet, respectful, humbled",
+      "stakes": "Surya's growth as a person",
+      "key_elements": ["Acknowledgment of superior opponent", "Personal growth", "Unfinished business"],
+      "setting_details": {
+        "bhuvan_outcome": "Forced to come clean, loses promotion but keeps job",
+        "surya_change": "Admits to Gopi: 'He was better than me'",
+        "final_image": "Venkat's message glowing on Surya's main display"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Intellectual superiority has limits",
+      "original_manifestations": ["Holmes outsmarted by Irene", "Holmes admits admiration"],
+      "cyberpunk_manifestations": ["Surya outsmarted by Venkat", "Surya keeps note as trophy"],
+      "importance": 10
+    },
+    {
+      "theme": "Technical expertise transcends hierarchy",
+      "original_manifestations": ["Irene's cleverness equals Holmes", "She escapes despite being 'just a woman'"],
+      "cyberpunk_manifestations": ["Venkat outsmarts corporate systems", "Employee Bhuvan at mercy of researcher Venkat"],
+      "importance": 9
+    },
+    {
+      "theme": "Surveillance and deception in digital age",
+      "original_manifestations": ["Holmes in disguise", "Irene sees through it"],
+      "cyberpunk_manifestations": ["Digital identity spoofing", "Both parties monitoring each other"],
+      "importance": 8
+    }
+  ],
+  "world_rules": {
+    "era": "2089, Neo-Bangalore or Neo-Mumbai (choose one!)",
+    "corporate_structure": "Five megacorps control everything, strict hierarchy",
+    "technology": {
+      "neural_implants": "Common for data workers",
+      "quantum_encryption": "Unbreakable by conventional means",
+      "surveillance": "Ubiquitous but has blind spots",
+      "communication": "Encrypted holo-calls, neural messages"
+    },
+    "social_rules": {
+      "employee_life": "Corporate housing, tracked performance, precarious status",
+      "data_privacy": "None for employees, absolute for executives",
+      "class_mobility": "Possible but requires flawless record"
+    }
+  }
+}
