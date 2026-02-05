@@ -200,25 +200,9 @@ Input (JSON) → Parser → Mapper → Prompt Builder → LLM → Output
 
 ## 🔮 Future Improvements
 
-See `SOLUTION_DOCUMENTATION.md` Section 5 for:
+See `SOLUTION_DOCUMENTATION.md` for:
 - Interactive scene selection
 - Alternative endings
 - Multi-language support
 - REST API deployment
 
-## 👤 Author Notes
-
-**Time invested:** ~6-8 hours  
-**Key learning:** Structured data > unstructured prompts for consistency  
-**Surprising insight:** How well Bangalore maps to cyberpunk naturally  
-
-**Why this approach?**
-- Shows system thinking (pipeline architecture)
-- Demonstrates AI engineering (prompt design, chaining)
-- Proves problem decomposition (5 distinct components)
-- Bias toward action (shipped working demo)
-- Original idea (voice profiles + validation)
-
----
-
-**Questions?** This demonstrates prompt engineering, system design, and creative AI application as requested.
